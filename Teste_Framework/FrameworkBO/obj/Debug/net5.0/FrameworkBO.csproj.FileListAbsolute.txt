@@ -1,0 +1,12 @@
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.csproj.AssemblyReference.cache
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.AssemblyInfoInputs.cache
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.AssemblyInfo.cs
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.csproj.CoreCompileInputs.cache
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\bin\Debug\net5.0\FrameworkBO.deps.json
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\bin\Debug\net5.0\FrameworkBO.dll
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\bin\Debug\net5.0\ref\FrameworkBO.dll
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\bin\Debug\net5.0\FrameworkBO.pdb
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.dll
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\ref\FrameworkBO.dll
+C:\Users\luis.corsa\source\repos\Teste_Framework\FrameworkBO\obj\Debug\net5.0\FrameworkBO.pdb
